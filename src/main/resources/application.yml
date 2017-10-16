@@ -14,8 +14,11 @@ eureka:
 zuul:
   routes:
     sysService:
-      path : /**
+      path : /sys/**
       serviceId : sysService
+    xingjiService:
+      path : /xingji/**
+      serviceId : xingjiService
   debug:
     request: true
   host:
