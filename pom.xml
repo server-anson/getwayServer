@@ -96,7 +96,7 @@
                             <!--change addClasspath to true if daks is desktop version-->
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>cn.hisign.EurekaApplication</mainClass>
+                            <mainClass>cn.hisign.GetwayApplication</mainClass>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                             <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
                         </manifest>
